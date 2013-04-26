@@ -1,9 +1,0 @@
-matriz=[]
-for i in range(0,4):
-  M = []
-  for j in range(0,2):
-    x=1
-    M.append(x)
-  matriz.append(M)
-  
-print matriz
